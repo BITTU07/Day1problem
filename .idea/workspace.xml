@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2f757e87-cbf1-4384-ab36-c2ae671b6d25" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Display_message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Display_message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UC4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UC4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/check_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/check_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uc5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uc5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uc6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uc6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uc7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uc7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678871369619</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1679032274606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679032274606</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
