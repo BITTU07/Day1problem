@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f757e87-cbf1-4384-ab36-c2ae671b6d25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.java" afterDir="false" />
+    <list default="true" id="2f757e87-cbf1-4384-ab36-c2ae671b6d25" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Display_message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Display_message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UC4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UC4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/check_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/check_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uc5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uc5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uc6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uc6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uc7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uc7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +44,37 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="helloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helloWorld" />
+  <component name="RunManager" selected="Application.uc7">
+    <configuration name="UC4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UC4" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="check_string" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uc5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uc5" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uc6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uc6" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uc7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uc7" />
       <module name="Assignment1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,7 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.helloWorld" />
+        <item itemvalue="Application.uc7" />
+        <item itemvalue="Application.uc6" />
+        <item itemvalue="Application.uc5" />
+        <item itemvalue="Application.UC4" />
+        <item itemvalue="Application.check_string" />
       </list>
     </recent_temporary>
   </component>
@@ -66,6 +99,33 @@
       <option name="presentableId" value="Default" />
       <updated>1678869900665</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1678871369619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678871369619</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/UC4.java</url>
+          <line>4</line>
+          <properties class="UC4" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
